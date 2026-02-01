@@ -32,3 +32,4 @@ services:
     restart: unless-stopped
     ports:
       - 8000:80
+
